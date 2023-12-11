@@ -577,4 +577,16 @@
         xsi:type="archimate:BusinessInterface"
         href="BusinessInterface_1536.xml#1536"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0dc0232a11224c7b8eb2cc4d6ceaf28e">
+    <bounds
+        x="12"
+        y="372"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-5de698f2870d454a8d0d2f0fbf869065.xml#id-5de698f2870d454a8d0d2f0fbf869065"/>
+  </children>
 </archimate:ArchimateDiagramModel>
